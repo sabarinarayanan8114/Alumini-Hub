@@ -1,0 +1,6 @@
+{
+  "name": "Alumni Referral Hub",
+  "description": "A web application connecting alumni offering referrals/mock interviews with students, featuring Sequelize models and database optimistic locking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
